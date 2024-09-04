@@ -1,2 +1,3 @@
 fd
 This is a change in new_branch
+This is a change in new_branch
